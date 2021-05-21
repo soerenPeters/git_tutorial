@@ -4,6 +4,3 @@ I add a new line!!!
 
 new change.
 
-Dagmar changes something.
-
-another line.
